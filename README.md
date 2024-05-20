@@ -153,7 +153,8 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ### OUTPUT:
 
-![image](https://github.com/MounishT/project/assets/138955798/8155379e-9ed5-4d22-8622-48d6946ccc77)
+![image](https://github.com/MounishT/project/assets/138955798/dd883d5c-0308-45ec-ae88-1c0577d06575)
+
 
 
 ### Result :
